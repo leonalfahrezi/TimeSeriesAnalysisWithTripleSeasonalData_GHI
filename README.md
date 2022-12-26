@@ -1,1 +1,2 @@
-# TimeSeriesAnalysisWithTripleSeasonalData_GHI
+# Description
+For this case I use Global Horizontal Irradiance (GHI) data with hourly interval since 2010-2021 to analysis its seasonal and after some research I divide its seasonal by three periods of time which is mean there is three seasonal pattern  , that's daily for seasonal 1, weekly for seasonal 2 and yearly for seasonal 3 (with periods each time is 6, 42 and 2184).  After that a descriptive statistical analysis was carried out to build the model and then test it according to the method. The method used in this study is the Triple Seasonal ARIMA method. With this method, forecasting will be carried out to measure whether the method is good enough to be used to forecast GHI data by calculating the error using MAPE.
