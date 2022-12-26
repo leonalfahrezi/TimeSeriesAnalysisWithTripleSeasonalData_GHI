@@ -1,0 +1,1 @@
+# TimeSeriesAnalysisWithTripleSeasonalData_GHI
